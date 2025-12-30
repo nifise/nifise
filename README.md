@@ -1,3 +1,3 @@
-## Hi there 👋
-### My name is nifise
+## Hi there, my name is nifise👋
+### 
 
