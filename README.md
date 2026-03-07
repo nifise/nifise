@@ -1,12 +1,15 @@
-<h3 align="center">A detection-focused security analyst with compliance literacy.</h3>
+<h3 align="center">Detection-focused security analyst with compliance literacy.</h3>
 
-- 🌱 I’m currently learning **more on SOC and complaince frameworks, and a photographer**
+- 🌱 I’m currently learning **more on SOC, complaince frameworks, and photography**
 
 - 👨‍💻 All of my projects are available at [here on github](here on github)
 
 - 📝 I regularly write articles on [https://medium.com/@nifise](https://medium.com/@nifise)
 
 - 📫 How to reach me **agboolanifise@gmail.com**
+
+- Currently working on a Active Directory–Centric Monitoring and Compliance Mapping Project involving tools such as Active Directory, pfSense firewall, Wazuh SIEM, ubuntu apache web server, and a windows client.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
